@@ -3,13 +3,12 @@
 /* -------------------  MOBILE  --------------------- */
 
 header {
-  background-image: url('https://via.placeholder.com/1150');
+  background-image: url("https://www.greenmangaming.com/newsroom/wp-content/uploads/2017/05/mariokart8del_BlogBanner-1280x720.jpg");
+  /*background-image: url('https://via.placeholder.com/1150');*/
 }
-
 
 /* -------------------  TABLET  --------------------- */
 @media (min-width: 768px) {
-
 }
 
 /* -------------------  DESKTOP  -------------------- */
